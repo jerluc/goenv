@@ -1,7 +1,7 @@
 # goenv
 
-[![Travis](https://travis-ci.org/crsmithdev/goenv.svg?branch=master)](https://travis-ci.org/crsmithdev/goenv)
-[![GoDoc](https://godoc.org/github.com/crsmithdev/goenv?status.svg)](https://godoc.org/github.com/crsmithdev/goenv)
+[![Travis](https://travis-ci.org/jerluc/goenv.svg?branch=master)](https://travis-ci.org/jerluc/goenv)
+[![GoDoc](https://godoc.org/github.com/jerluc/goenv?status.svg)](https://godoc.org/github.com/jerluc/goenv)
 
 ## What?
 
@@ -30,7 +30,7 @@ PATH=PATH:$GOPATH/bin
 Install this package:
 
 ```
-go get github.com/crsmithdev/goenv
+go get github.com/jerluc/goenv
 ```
 
 Within your project directory, create a goenv:
